@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22" started-at="2021-05-11T20:00:41Z" finished-at="2021-05-11T20:00:41Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22" started-at="2021-05-11T20:00:41Z" finished-at="2021-05-11T20:00:41Z">
+      <class name="jenkinsMvn.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:jenkinsMvn.RESTAPITest@bb3d47]" name="deleteTwitter" duration-ms="6" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="deleteTwitter12()[pri:0, instance:jenkinsMvn.RESTAPITest@bb3d47]" name="deleteTwitter12" duration-ms="0" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter12 -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:jenkinsMvn.RESTAPITest@bb3d47]" name="postJira" duration-ms="0" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- jenkinsMvn.RESTAPITest -->
+      <class name="jenkinsMvn.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAUtomation()[pri:0, instance:jenkinsMvn.SeleniumTest@1f82230]" name="BrowserAUtomation" duration-ms="0" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAUtomation -->
+        <test-method status="PASS" signature="elementsUi()[pri:0, instance:jenkinsMvn.SeleniumTest@1f82230]" name="elementsUi" duration-ms="0" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUi -->
+        <test-method status="PASS" signature="elementsU1ssi()[pri:0, instance:jenkinsMvn.SeleniumTest@1f82230]" name="elementsU1ssi" duration-ms="0" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsU1ssi -->
+        <test-method status="PASS" signature="elementsU1i()[pri:0, instance:jenkinsMvn.SeleniumTest@1f82230]" name="elementsU1i" duration-ms="0" started-at="2021-05-12T01:30:41Z" finished-at="2021-05-12T01:30:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsU1i -->
+      </class> <!-- jenkinsMvn.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
